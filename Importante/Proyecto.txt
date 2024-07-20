@@ -6,3 +6,6 @@
 3.-Si no envían la documentación no tienen presentación , que el mas charlatan de su grupo y que tenga conocimiento obviamente presente cada ciclo.
 4.-No intenten hacerlo perfecto , sino funcional y directo , con buena información, de nada sirve mostrar en la pantallita números sin saber que significan.
 5.-Pueden mover el documento cuantas veces quieran , hasta el ultimo dia de la presentación pueden hacer cambios a su base.
+-------------------------------------
+Haganlo con react y node , no sean cagones
+Si quieren ayuda con railway pa subirlo a la nube , me avisan
