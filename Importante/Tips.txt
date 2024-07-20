@@ -1,0 +1,8 @@
+***PASADO 3 SEMANAS , TE HACE ESCOGER 3 IDEAS DE POSIBLES PROYECTOS , IMPRIMAN ESAS 3 SINO NO SIRVE***
+***EL DIA DE SELECCION DE PROYECTOS LLEGUEN 30 MIN ANTES , TIENEN QUE SENTARSE EN PRIMERA FILA Y ENTREGARLE SU HOJA A LA INGENIERA , ASI NO TIENEN QUE ESPERAR QUE ELLA ELIJA SU PEOR IDEA DE PROYECTO Y USTEDES ESCOGEN***
+
+1.-Hacer un buen grupo , no se distribuyan frontend y backend , no son developers asi que no hay pa que a menos que uno tenga experiencia con web.
+2.-Distribuir documentación con todo el grupo , hay demasiadas ayudantías sobre como empezar , demasiados proyectos ya hechos para que se guien , SI ES QUE NO TIENEN LA DOCUMENTACION PARA LA PRESENTACION IGUAL LA ENVIAN , tu nota depende de 4 ciclos de tu proyecto que vale 30 , normalmente pone 27-28.
+3.-Si no envían la documentación no tienen presentación , que el mas charlatan de su grupo y que tenga conocimiento obviamente presente cada ciclo.
+4.-No intenten hacerlo perfecto , sino funcional y directo , con buena información, de nada sirve mostrar en la pantallita números sin saber que significan.
+5.-Pueden mover el documento cuantas veces quieran , hasta el ultimo dia de la presentación pueden hacer cambios a su base.
